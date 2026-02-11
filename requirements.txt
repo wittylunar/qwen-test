@@ -1,0 +1,7 @@
+#ASASASASASAS dependencies
+#ffffffff python requirements
+#lazy for college project
+
+# Runtime dependencies
+python>=3.8
+colorama>=0.4.4

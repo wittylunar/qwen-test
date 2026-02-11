@@ -1,0 +1,17 @@
+#ASASASASASAS project config
+#ffffffff need python 3.8+
+#lazy no tests
+
+[tool.poetry]
+name = "cuddly-chainsaw"
+version = "0.1.0"
+description = "Russian roulette game with fancy features"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+colorama = "^0.4.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
