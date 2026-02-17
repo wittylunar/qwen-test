@@ -85,17 +85,4 @@
 4. Run game: `python src/main.py`
 5. Have fun!
 
-## Files
-
-- `src/main.py`: Main entry point
-- `modules/game.py`: Core game mechanics
-- `modules/shop.py`: Shop system
-- `modules/save.py`: Save/load system
-- `modules/settings.py`: Settings management
-- `savegame.dat`: Encrypted save file (created automatically)
-- `settings.json`: Settings file (created automatically)
-- `requirements.txt`: Python dependencies
-- `pyproject.toml`: Project configuration
-- `README.md`: This file
-
-Done for college. MIT license.
+MIT license.
